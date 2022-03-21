@@ -1,6 +1,7 @@
 # Admin-and-User-UI-to-work-with-database
 
-Used PDO to work with database in PhpMyAdmin.
+Used PDO to work with database.
+Using PhpMyAdmin to check database.
 
 Created 3 HTML pages to work with database:
 - Menu to choose between Admin and User UI
