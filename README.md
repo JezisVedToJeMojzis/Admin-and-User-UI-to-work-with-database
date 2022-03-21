@@ -25,5 +25,5 @@ Tables:
 - translations (id, language_id, word_id, title, description)
 - languages (id, title)
 
-Design of tables:
+
 ![tables](https://user-images.githubusercontent.com/79150859/159305479-093d25b3-3009-45ed-940e-29bf6f092a82.png)
