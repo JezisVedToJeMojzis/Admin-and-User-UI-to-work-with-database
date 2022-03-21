@@ -1,0 +1,116 @@
+html, body {
+    margin:0;
+    padding:0;
+    background-color: dimgrey !important;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-size: 3vw;
+    text-shadow: black 4px 2px;
+    color: white;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    font-size: 1.3vw;
+    text-shadow: black 3px 1.5px;
+    color: white;
+    margin-top: -0.5vw;
+}
+
+
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+    padding: 1vw;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid black;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#container{
+    border: 2px solid black;
+    height: auto;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkcyan !important;
+    margin-bottom:2vw;
+    margin-top:2vw;
+}
+
+label{
+    font-size: 0.7vw;
+    text-shadow: black 2.5px 1.0px;
+    color: white;
+}
+
+#result-table {
+    margin-top: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#result-table td, #result-table th {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+#result-table tr{
+    background-color: lightgrey;
+}
+
+
+#result-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+    font-size: 0.8vw;
+    text-shadow: black 2.5px 1.0px;
+}
+
+ol li{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    background-color: darkcyan;
+    width: 10vw;
+    line-height: 4vw;
+    border: 1px solid black;
+    font-size: 2vw;
+    text-shadow: black 3px 1.5px;
+    color: white;
+}
+
+li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    display: block;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #33B5E5;
+}
